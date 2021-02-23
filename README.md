@@ -1,1 +1,1 @@
-"# anotacoes" 
+Aplicativo básico de anotações.
