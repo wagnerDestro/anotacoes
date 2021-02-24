@@ -1,1 +1,1 @@
-Aplicativo básico de anotações.
+Aplicativo básico de anotações utilizando React Native.
